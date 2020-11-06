@@ -11,3 +11,9 @@
 - 🤔 I’m looking for help with New Technologies
 
 
+### ⚙ Technologies and Tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML-orange)
+![](https://img.shields.io/badge/Code-CSS-blue)
+![](https://img.shields.io/badge/Editor-VS%20Code-blue)

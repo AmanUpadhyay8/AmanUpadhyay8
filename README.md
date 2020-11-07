@@ -14,7 +14,7 @@
 - ✍ I’m currently learning C++ and Java
 - 🤩 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Node Js
-- 🥳 I have just started contributing to Open source
+- 🥳 I have just started contributing
 - 😄 Pronouns - He/Him
 
 ### ⚙ Technologies and Tools

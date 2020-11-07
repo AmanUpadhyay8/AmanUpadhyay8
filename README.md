@@ -8,8 +8,9 @@
  Hello folks I am Aman Upadhyay, Computer Science Undergrad living in Jamshedpur India. I am currently learning about
  Open Source and Contributions.
 
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/AmanUpadhyay8/AmanUpadhyay8/main/code.gif" width="500" height="320" />
 
-- 💻 I’m currently working on Python
+- 💻 I’m currently working on Python                                                
 - ✍ I’m currently learning C++ and Java
 - 🤩 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with New Technologies

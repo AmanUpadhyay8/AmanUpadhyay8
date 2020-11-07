@@ -1,7 +1,7 @@
-### Hey there, Nice to see ya <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+### <h1> Hey there, Nice to see ya<h1/>  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30">
 
 
- <img src="https://raw.githubusercontent.com/AmanUpadhyay8/AmanUpadhyay8/main/wave.gif" width="32px">
+
 <!--
 **AmanUpadhyay8/AmanUpadhyay8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -26,3 +26,10 @@
 
 
 
+
+
+
+
+
+
+ <img src="https://raw.githubusercontent.com/AmanUpadhyay8/AmanUpadhyay8/main/wave.gif" width="32px">

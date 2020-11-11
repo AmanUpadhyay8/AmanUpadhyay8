@@ -11,7 +11,7 @@
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/AmanUpadhyay8/AmanUpadhyay8/main/code.gif" width="450" height="260" />
 
 - 💻 I’m currently working on Python                                                
-- ✍ I’m currently learning C++ and Java
+- ✍ I’m currently learning Node.Js
 - 🤩 I’m looking to collaborate on Python
 - 🤔 I’m looking for help with Node Js
 - 🥳 I have just started contributing

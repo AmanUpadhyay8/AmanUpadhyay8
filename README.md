@@ -1,34 +1,81 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, nice to see ya.</h1>
 
-
+[![GitHub AmanUpadhyay8](https://img.shields.io/github/followers/Kardev07?label=follow&style=social)](https://github.com/AmanUpadhyay8)
 
 <!--
 **AmanUpadhyay8/AmanUpadhyay8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
- Hello folks I am Aman Upadhyay, Computer Science Undergrad living in Jamshedpur, India. I am currently learning about
- Open Source and Contributions.
+ ## Hello folks I am Aman Upadhyay, Frontend Developer and Open source enthusiast.
+
+ <br>
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/AmanUpadhyay8/AmanUpadhyay8/main/code.gif" width="450" height="260" />
 
-- 💻 I’m currently working on Java                                              
-- ✍ I’m currently learning React.Js
-- 🤩 I’m looking to collaborate on Python
+- 💻 I’m currently working on Full Stack Development                                              
+- ✍ I’m currently learning ReactJS and TailwindCSS
+- 🤩 I’m looking to collaborate on Frontend Development
 - 🤔 I’m looking for help with React.Js
-- 🥳 I have just started contributing
-- 😄 Pronouns - He/Him
+- 😎I'm also learning about Content writing and Content Creation
 
-### ⚙ Technologies and Tools
+<br>
+<br>
+<br>
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-![](https://img.shields.io/badge/Code-CSS-blue)
-![](https://img.shields.io/badge/Code-C%2B%2B-blue)
-![](https://img.shields.io/badge/Code-Java-orange)
-![](https://img.shields.io/badge/Editor-VS%20Code-blue)
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<h3>
+    📕 Links to my Blogs
+</h3>
+
+- Check out my blogs on [Hashnode](https://dev-jedi.ninja/)
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<h2 align="center">
+    ⚙ Technologies and Tools
+</h2>
+
+<br>
+
+[<img width="45px" padding="10px" src="https://code.visualstudio.com/assets/images/code-stable-white.png" />][vscode] &nbsp;&nbsp;
+[<img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" />][IntelliJ] &nbsp;&nbsp;
+[<img width="45px" src="https://cdn.discordapp.com/attachments/873792024682307585/873952168179281960/UHqP0Hyalcn6Tqx5oAAAAASUVORK5CYII.png" />][github] &nbsp;&nbsp;
+[<img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][git] &nbsp;&nbsp;
+[<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][js] &nbsp;&nbsp;
+[<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />][html] &nbsp;
+[<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />][css] &nbsp;&nbsp;
+[<img width="50px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" />][react] &nbsp;&nbsp;
+[<img width="50px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />][c++] &nbsp;&nbsp;
+[<img width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />][python] &nbsp;&nbsp;
+<!-- [<img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" />][next] &nbsp;&nbsp; -->
+<!-- [<img width="50px" src="https://img.icons8.com/color/452/nodejs.png" />][node] &nbsp;&nbsp; -->
+<!-- [<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][c] &nbsp;&nbsp; -->
+<!-- [<img width="50px" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" />][firebase] &nbsp;&nbsp; -->
+
+
+<br><br><br>
+
+<h2 align="center">
+   📊 GitHub Statistics
+</h2>
+
+<br>
 
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=AmanUpadhyay8&show_icons=true&theme=radical)
 
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanUpadhyay8)](https://git.io/streak-stats)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanUpadhyay8&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h1> <img src="https://raw.githubusercontent.com/AmanUpadhyay8/AmanUpadhyay8/main/wave.gif" width="30px"/>See ya passing by !</h1>
+
+## Connect with me [Aman Upadhyay](https://linktr.ee/Aman_Upadhyay).

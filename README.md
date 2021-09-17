@@ -74,6 +74,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanUpadhyay8&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
+
+[![AmanUpadhyay8's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AmanUpadhyay8&theme=xcode)](https://git.io/AmanUpadhyay8)
+
 
 <h1> <img src="https://raw.githubusercontent.com/AmanUpadhyay8/AmanUpadhyay8/main/wave.gif" width="30px"/>See ya passing by !</h1>
 

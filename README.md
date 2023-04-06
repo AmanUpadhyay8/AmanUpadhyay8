@@ -76,7 +76,7 @@
 
 <br>
 
-[![AmanUpadhyay8's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AmanUpadhyay8&theme=xcode)](https://git.io/AmanUpadhyay8)
+
 
 
 <h1> <img src="https://raw.githubusercontent.com/AmanUpadhyay8/AmanUpadhyay8/main/wave.gif" width="30px"/>See ya passing by !</h1>

@@ -1,21 +1,21 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, nice to see ya.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, How you doin.</h1>
 
 [![GitHub AmanUpadhyay8](https://img.shields.io/github/followers/AmanUpadhyay8?label=follow&style=social)](https://github.com/AmanUpadhyay8)
 
 <!--
 **AmanUpadhyay8/AmanUpadhyay8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
- ## Hello folks I am Aman Upadhyay, Frontend Developer and Open source enthusiast.
+ ## Hello folks I am Aman Upadhyay, Frontend Developer, Open source enthusiast and wannabe Jedi.
 
  <br>
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/AmanUpadhyay8/AmanUpadhyay8/main/code.gif" width="450" height="260" />
 
 - 💻 I’m currently working on Full Stack Development                                              
-- ✍ I’m currently learning ReactJS and TailwindCSS
+- ✍ I’m currently learning NextJS and AstroJS 
 - 🤩 I’m looking to collaborate on Frontend Development
-- 🤔 I’m looking for help with React.Js
-- 😎I'm also learning about Content writing and Content Creation
+- 🤔 I’m looking for help with AstroJS
+- 😎I'm also into Content writing and Content Creation
 
 <br>
 <br>
@@ -25,7 +25,7 @@
     📕 Links to my Blogs
 </h3>
 
-- Check out my blogs on [Hashnode](https://dev-jedi.ninja/)
+- Check out my blogs on [Hashnode](https://dev-jedi.hashnode.dev/)
 
 
 

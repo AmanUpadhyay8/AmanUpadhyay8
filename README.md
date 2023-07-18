@@ -5,7 +5,7 @@
 <!--
 **AmanUpadhyay8/AmanUpadhyay8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
- ## Hello folks I am Aman Upadhyay, Frontend Developer, Open source enthusiast and wannabe Jedi.
+## Hello folks, Aman here! <br> I'm a Frontend Developer, Open source enthusiast and wannabe Jedi.
 
  <br>
 
@@ -46,14 +46,14 @@
 <img width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" /> &nbsp;&nbsp;
 <img width="50px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" /> &nbsp;&nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" /> &nbsp;&nbsp;
-<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /> &nbsp;
+<img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" /> &nbsp;&nbsp;
 <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" /> &nbsp;&nbsp;
 <img width="50px" src="https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png" /> &nbsp;&nbsp;
 <img width="50px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" /> &nbsp;&nbsp;
-<img width="50px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> &nbsp;&nbsp;
+ 
 <!-- [<img width="50px" src="https://img.icons8.com/color/452/nodejs.png" />][node] &nbsp;&nbsp; -->
 <!-- [<img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />][c] &nbsp;&nbsp; -->
-<!-- [<img width="50px" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" />][firebase] &nbsp;&nbsp; -->
+<img width="50px" src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" /> &nbsp;&nbsp;
 
 
 <br><br><br>

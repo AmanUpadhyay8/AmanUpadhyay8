@@ -60,6 +60,18 @@
 
 <br>
 
+---
+### LeetCode Stats
+
+<p align="left">
+  <a href="https://leetcode.com/u/devsarejedi/">
+    <img src="https://leetcard.jacoblin.cool/devsarejedi?theme=dark&font=Recursive&ext=activity" alt="Aman's LeetCode Stats" />
+  </a>
+</p>
+
+---
+<br>
+
 
 
 ## Connect with me [Aman Upadhyay](https://linktr.ee/Aman_Upadhyay).
